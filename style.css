@@ -1,5 +1,9 @@
 body {
     background-color: rgb(253, 251, 251);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    line-height: 30px;
+    color: blue;
 }
 
 #cabecalho {
@@ -9,4 +13,17 @@ body {
 
 #minha_foto {
     max-width: 200px;
+}
+
+#minhas_info {
+  padding: 10;
+  margin: auto;
+}
+
+#minhas_info td {
+    border: solid black;
+}
+
+#minhas_info tr {
+  border: solid black;
 }

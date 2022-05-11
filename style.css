@@ -27,3 +27,7 @@ body {
 #minhas_info tr {
   border: solid black;
 }
+
+.tabelas {
+  display: flex;
+}
